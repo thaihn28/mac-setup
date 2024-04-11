@@ -34,25 +34,9 @@ This repo contains info on all the apps / tools / settings I use on my Mac.
 - [Node.js](#nodejs)
   - [Global Modules](#global-modules)
 - [VS Code](#vs-code)
-
+- [Fig]()
+- [DevToys](https://devtoys.app/)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## What Macbook do I have?
-
-I am using a 2020 13" Macbook Pro for work and a 2021 14" Macbook Pro for personal stuff.
-
-The specs for both machines:
-* 2020
-  * Apple M1
-* 2021
-  * Apple M1 Pro
-* 16GB RAM
-* 500GB SSD
-
-Read more about these Macbooks here:
-
-* [2020](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-8-core-13-2020-specs.html)
-* [2021](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-pro-8-core-cpu-14-core-gpu-14-2021-specs.html)
 
 ## OS Settings
 
